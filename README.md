@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @denisushakov
-- 👀 Golang
+- 👀 1C, Golang
 - 📫 denisushakov56@gmail.com
