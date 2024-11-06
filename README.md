@@ -1,3 +1,4 @@
-- 👋 Hi, I’m Denis Ushakov
+- 👋 Hi, I’m @denisushakov
 - 👀 1C, Golang
+- 🌱 Software Engineer
 - 📫 denisushakov56@gmail.com
